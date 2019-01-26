@@ -2,7 +2,7 @@
 
 This is a matlab implementation for dng rendering pipeline.
 
-Author: Jesse Chen
+Author: Jesse Chen  
 Email: jessechenwei@outlook.com
 
 ## Reference:
